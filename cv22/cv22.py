@@ -8,7 +8,7 @@ import pickle
 import numpy as np
 import csv
 from datetime import datetime
-from PIL import Image, ImageTk  # com
+from PIL import Image, ImageTk  # combb
 
 from openpyxl import Workbook
 from tkinter import filedialog
